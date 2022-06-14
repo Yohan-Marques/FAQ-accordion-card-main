@@ -135,7 +135,7 @@ main{
 .woman-mobile{
     display: none;
 }
-@media screen and (max-width: 1040px){
+@media screen and (max-width: 1122px){
     body{
         background: linear-gradient(var(--back-linear-1), var(--back-linear-2));
         height: 100%;
